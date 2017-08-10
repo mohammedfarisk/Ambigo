@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-  pintf("hello world");
+  pintf("hello");
   return 0;
 }
